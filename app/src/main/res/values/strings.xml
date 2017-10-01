@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie_Rate</string>
+    <string name="title_activity_detail_">Detail_Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_trailer_">Trailer_Activity</string>
+    <string name="title_activity_review_">Review_Activit</string>
+</resources>
